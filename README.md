@@ -1,13 +1,8 @@
-# 2XC3-Exam-Practice
-contains suggested textbook practice problems
-folder for chapters, one C file per question
+## 2XC3 Exam Practice Problems + Solutions
 
-## Format
-- Imports
-- Question
-- Given code
-- Main function
+Collection of assigned C practice problems organized by chapter, based on the original repository by **@shamilemir**:  
+`https://github.com/shamilemir/2XC3-Exam-Practice`. Each folder contains one `.c` file per problem.
 
-### Shortcut: 
-selected multiple lines
-CTRL + / to comment or uncomment
+### Inside
+- **Solutions**: `proj-xx-y.c` (worked solution)
+- **Exercises**: `proj-xx-y-exercise.c` (original prompt/starter code, no solution)
